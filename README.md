@@ -10,3 +10,8 @@
 
 ## Git and github are different from each other.
 
+----------------------------------------------
+
+## how do people work with the git or github  in real time?
+
+## well first off   
